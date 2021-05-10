@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.exe
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.deps.json
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.runtimeconfig.json
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.runtimeconfig.dev.json
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.dll
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\bin\Debug\netcoreapp3.1\DictionaryWithMutex.pdb
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.AssemblyInfo.cs
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.dll
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.pdb
+C:\Users\User\source\repos\DictionaryWithMutex\DictionaryWithMutex\obj\Debug\netcoreapp3.1\DictionaryWithMutex.genruntimeconfig.cache
